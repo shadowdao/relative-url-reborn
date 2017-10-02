@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Relative URL
-Plugin URI: http://sparanoid.com/work/relative-url/
-Description: Relative URL applies wp_make_link_relative function to links (posts, categories, pages and etc.) to convert them to relative URLs. Useful for developers when debugging local WordPress instance on a mobile device (iPad. iPhone, etc.).
-Version: 0.1.5
+Plugin Name: Relative URL Reborn
+Plugin URI: https://github.com/shadowdao/relative-url-reborn/
+Description: Based on http://sparanoid.com/work/relative-url/, with some simple updates to correct buffer errors. - Relative URL applies wp_make_link_relative function to links (posts, categories, pages and etc.) to convert them to relative URLs. Useful for developers when debugging local WordPress instance on a mobile device (iPad. iPhone, etc.).
+Version: 0.1.1
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
 Author Email: t@sparanoid.com
